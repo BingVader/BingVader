@@ -20,6 +20,10 @@
 
 ## ⭐MY SKILLS
 
+<div align="left">
+  <img src=https://tenor.com/view/goku-dragon-ball-dragon-ball-z-running-gif-8114153398015504637"></div>img>
+</div>
+
 <div align="right">
   
   [![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)](https://react.dev/)
