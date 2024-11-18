@@ -21,7 +21,9 @@
 ## ⭐MY SKILLS
 
 <div align="left">
+  
   <img src=https://tenor.com/view/goku-dragon-ball-dragon-ball-z-running-gif-8114153398015504637"></div>img>
+
 </div>
 
 <div align="right">
