@@ -13,6 +13,9 @@
 -📖Reads Novels, Manga
 
 -🎥Anime, Series and Movie enthusiast
+
+![Alt text](https://giffiles.alphacoders.com/220/220253.gif)
+
 <!--
 **BingVader/BingVader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
