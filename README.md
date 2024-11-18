@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Rao
 
 ## 📝 About Me
-<img src="https://preview.redd.it/transparent-gifs-i-made-from-the-pok%C3%A9mon-anime-for-an-v0-eti95tjbyb7a1.gif?width=640&crop=smart&auto=webp&s=79fa1786cfafb7d807f326cb96037e4559c6b27b" height="200px" width="250px" align="right" />
+<img src="https://preview.redd.it/transparent-gifs-i-made-from-the-pok%C3%A9mon-anime-for-an-v0-eti95tjbyb7a1.gif?width=640&crop=smart&auto=webp&s=79fa1786cfafb7d807f326cb96037e4559c6b27b.gif" height="200px" width="250px" align="right" />
 
 
 👨‍🎓|Pursuing my B.Tech
