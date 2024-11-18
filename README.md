@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Rao
 
 ## 📝 About Me
-<img src="https://preview.redd.it/transparent-gifs-i-made-from-the-pok%C3%A9mon-anime-for-an-v0-eti95tjbyb7a1.gif?width=640&crop=smart&auto=webp&s=79fa1786cfafb7d807f326cb96037e4559c6b27b" height="200px" width="250px" align="right" />
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b1efb7cf-7c75-411f-a795-0b5a28748913/dbeykat-62776e22-8b37-4d6c-b85d-276e1e12ee4c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IxZWZiN2NmLTdjNzUtNDExZi1hNzk1LTBiNWEyODc0ODkxM1wvZGJleWthdC02Mjc3NmUyMi04YjM3LTRkNmMtYjg1ZC0yNzZlMWUxMmVlNGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.I08TQVpZrcs95BQ4dl1Cc1mxxhCbMSutQlEmd-sgafs" height="200px" width="250px" align="right" />
 
 
 👨‍🎓|Pursuing my B.Tech
