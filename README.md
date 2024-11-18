@@ -20,13 +20,11 @@
 
 ## ⭐MY SKILLS
 
-<div >
 
-<div align="left">
   
-  <img src="https://media.tenor.com/cJtDhl2-MP0AAAAi/goku-dragon-ball.gif"></img>
+  <img src="https://media.tenor.com/cJtDhl2-MP0AAAAi/goku-dragon-ball.gif" align="left"></img>
 
-</div>
+
 
 <div align="right">
   
@@ -50,7 +48,7 @@
   
 </div>
 
-</div>
+
 <!--
 **BingVader/BingVader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
