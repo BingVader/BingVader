@@ -22,7 +22,7 @@
 
 <div align="left">
   
-  <img src=https://tenor.com/view/goku-dragon-ball-dragon-ball-z-running-gif-8114153398015504637"></img>
+  <img src="https://tenor.com/view/goku-dragon-ball-dragon-ball-z-running-gif-8114153398015504637"></img>
 
 </div>
 
