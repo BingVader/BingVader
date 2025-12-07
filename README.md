@@ -5,7 +5,7 @@
 <img src="https://preview.redd.it/transparent-gifs-i-made-from-the-pok%C3%A9mon-anime-for-an-v0-eti95tjbyb7a1.gif?width=640&crop=smart&auto=webp&s=79fa1786cfafb7d807f326cb96037e4559c6b27b" height="200px" width="250px" loop autoplay align="right" />
 
 
-👨‍🎓|Full Stack Developer @ LEOPARD TECH LABS || Consultant Developer @ WILDLIFE TRUST OF INDIA
+👨‍🎓|Full Stack Developer
 
 🎧|Love Pop, Alt-Rock, Indie
 
