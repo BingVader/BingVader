@@ -15,15 +15,15 @@
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=igea0okw9oe3vz4rmdqbnf10l&cover_image=true&theme=Natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=igea0okw9oe3vz4rmdqbnf10l&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=00ff40&bar_color_cover=true">
   </a>
 </p>
 
 
 ## ⭐MY SKILLS
-
+<img src="https://media.tenor.com/cJtDhl2-MP0AAAAi/goku-dragon-ball.gif" align="left"></img>
 <div align="right">
-  
+
   [![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)](https://react.dev/)
   [![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge)](https://soliditylang.org/)
   [![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)](https://www.python.org/)
