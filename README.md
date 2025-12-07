@@ -23,7 +23,9 @@
 
 
   
-  <img src="https://media.tenor.com/cJtDhl2-MP0AAAAi/goku-dragon-ball.gif" align="left"></img>
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_GENERATED_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="400px" />
+</p>
 
 
 
