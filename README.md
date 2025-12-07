@@ -13,7 +13,10 @@
 
 🎥|Anime, Series and Movie enthusiast
 
-![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=igea0okw9oe3vz4rmdqbnf10l&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false)
+<p align="right">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=igea0okw9oe3vz4rmdqbnf10l&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color_cover=true" width="350"/>
+</p>
+
 
 
 
