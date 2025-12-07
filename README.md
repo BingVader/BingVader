@@ -13,16 +13,6 @@
 
 🎥|Anime, Series and Movie enthusiast
 
-🎧 Currently listening: [Spotify Track](https://open.spotify.com/user/igea0okw9oe3vz4rmdqbnf10l)
-
-
-
-
-
-## ⭐MY SKILLS
-
-
-  
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=igea0okw9oe3vz4rmdqbnf10l&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
@@ -30,6 +20,7 @@
 </p>
 
 
+## ⭐MY SKILLS
 
 <div align="right">
   
