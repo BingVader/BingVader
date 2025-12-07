@@ -24,7 +24,7 @@
 
   
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_GENERATED_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="400px" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=igea0okw9oe3vz4rmdqbnf10l&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="400px" />
 </p>
 
 
