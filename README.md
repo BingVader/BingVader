@@ -1,18 +1,5 @@
-## Hi there 👋, I'm Rao
-
-## 📝 About Me
-
-<img src="https://preview.redd.it/transparent-gifs-i-made-from-the-pok%C3%A9mon-anime-for-an-v0-eti95tjbyb7a1.gif?width=640&crop=smart&auto=webp&s=79fa1786cfafb7d807f326cb96037e4559c6b27b" height="200px" width="250px" loop autoplay align="right" />
-
-
-👨‍🎓|Full Stack Developer
-
-🎧|Love Pop, Alt-Rock, Indie
-
-📖|Reads Novels, Manga
-
-🎥|Anime, Series and Movie enthusiast
-
+“I was ashamed of myself when I realised life was a costume party and I attended with my real face”
+― Franz Kafka
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=igea0okw9oe3vz4rmdqbnf10l&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=00ff40&bar_color_cover=true">
@@ -21,8 +8,8 @@
 
 
 ## ⭐MY SKILLS
-<img src="https://media.tenor.com/cJtDhl2-MP0AAAAi/goku-dragon-ball.gif" align="left"></img>
-<div align="right">
+<!-- <img src="https://media.tenor.com/cJtDhl2-MP0AAAAi/goku-dragon-ball.gif" align="left"></img> -->
+<!-- <div align="right"> -->
 
   [![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)](https://react.dev/)
   [![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge)](https://soliditylang.org/)
@@ -42,6 +29,6 @@
   [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
   [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)]()
   
-</div>
+<!-- </div> -->
 
 
