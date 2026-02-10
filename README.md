@@ -7,7 +7,6 @@
 </p>
 
 
-## ⭐MY SKILLS
 <!-- <img src="https://media.tenor.com/cJtDhl2-MP0AAAAi/goku-dragon-ball.gif" align="left"></img> -->
 <!-- <div align="right"> -->
 
